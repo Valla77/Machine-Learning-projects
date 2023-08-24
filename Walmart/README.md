@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='AT&T_logo.png'>
+  <img src='Walmart_logo.png'>
 </p>
 
 # Supervised Machine Learning project - Walmart : predict weekly sales
