@@ -57,8 +57,10 @@ Create a comprehensive report or presentation to communicate your findings and t
 
 Review the project presentation : [Video Presentation](https://acsts-getaround-delay-analysis.herokuapp.com/)
 
+DBSCAN clusters in NYC
 ![DBSCAN clusters in NYC](DBSCAN_clusters_in_NYC.png)
 
+DBSCAN clustering algorithm to identify clusters in New York City on Saturdays at 22:00 hours
 ![DBSCAN clustering algorithm to identify clusters in New York City on Saturdays at 22:00 hours](DBSCAN_clusters_in_NYC_on_Saturday_at_22hrs.png)
 
 Author
