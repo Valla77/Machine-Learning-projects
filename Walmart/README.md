@@ -24,8 +24,7 @@ To complete this project, your team should:
 - Train at least one model with **regularization (Lasso or Ridge)** to reduce overfitting
 
 
-
-Review the project presentation : [Video Presentation](https://acsts-getaround-delay-analysis.herokuapp.com/)
+Review the project presentation : [Video Presentation](https://share.vidyard.com/watch/FBgJQH5tK2vtXZo7c32Cb7?)
 
 Author
 
