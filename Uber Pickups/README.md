@@ -55,7 +55,7 @@ Consider additional techniques like density-based analysis or silhouette scores 
 Document the entire process, including data preprocessing, algorithm implementation, visualization, and results interpretation.
 Create a comprehensive report or presentation to communicate your findings and the effectiveness of the algorithm to relevant stakeholders.
 
-Review the project presentation : [Video Presentation](https://acsts-getaround-delay-analysis.herokuapp.com/)
+Review the project presentation : [Video Presentation](https://share.vidyard.com/watch/FBgJQH5tK2vtXZo7c32Cb7?)
 
 DBSCAN clusters in NYC
 ![DBSCAN clusters in NYC](DBSCAN_clusters_in_NYC.png)
