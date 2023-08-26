@@ -41,8 +41,8 @@ Analyze the model's parameters and feature importances to understand which featu
 Based on the insights from feature analysis, identify potential areas for improvement in the newsletter's conversion rate.
 
 
+Review the project presentation : [Video Presentation](https://share.vidyard.com/watch/FBgJQH5tK2vtXZo7c32Cb7?)
 
-Review the project presentation : [Video Presentation](https://acsts-getaround-delay-analysis.herokuapp.com/)
 
 Author
 
